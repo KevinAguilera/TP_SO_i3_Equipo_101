@@ -5,7 +5,7 @@ b- Sí, pudo ver todos los cambios que se realizaron.
 c- git checkout main(aseguro estar en el main).
 git merge Plucci y luego el push.
 d-Si
-e-Tuvimos que deletear porque a Beta tuvo problemas con la rama
+e-El inconveniente que tuvimos, se pusheo todo en la branch del punto 6, en lugar del main y tuvimos que borrar todo, haciendo todo de vuelta.
 f-ifconfig >> beta.txt
 date >> beta.txt
 g- 
