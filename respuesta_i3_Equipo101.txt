@@ -1,0 +1,6 @@
+Aguilera Kevin 
+
+Beta) a- Queda con todos los archivos de los otros branchs actualizados.
+b- Sí, pudo ver todos los cambios que se realizaron.
+c- git checkout main(aseguro estar en el main).
+git merge Plucci y luego el push.
