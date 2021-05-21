@@ -1,0 +1,20 @@
+Aguilera Kevin
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.222  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::4f37:d443:ef92:84b2  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:8f:29:27  txqueuelen 1000  (Ethernet)
+        RX packets 188770  bytes 271933523 (271.9 MB)
+        RX errors 0  dropped 1  overruns 0  frame 0
+        TX packets 76524  bytes 6516236 (6.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 745  bytes 73104 (73.1 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 745  bytes 73104 (73.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vie 21 may 2021 12:33:24 -03
