@@ -8,3 +8,13 @@ d-Si
 e-Tuvimos que deletear porque a Beta tuvo problemas con la rama
 f-ifconfig >> beta.txt
 date >> beta.txt
+g- 
+1054  git checkout Aguilera 
+1055  ifconfig >> beta.txt 
+1056  sudo apt install net-tools
+1057  ifconfig >> beta.txt 
+1058  date >> beta.txt 
+1059  git add .
+1060  git commit -m"Punto 8Alfa"
+1061  git push
+
